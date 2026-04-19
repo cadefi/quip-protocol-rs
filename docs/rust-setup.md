@@ -6,7 +6,7 @@ This page will guide you through the **2 steps** needed to prepare a computer fo
 Substrate is built with [the Rust programming language](https://www.rust-lang.org/), the first thing you will need to do
 is prepare the computer for Rust development - these steps will vary based on the computer's operating system. Once Rust
 is configured, you will use its toolchains to interact with Rust projects; the commands for Rust's toolchains will be
-the same for all supported, Unix-based operating systems.
+the same for all supported, Unix-based operating systems. yuh huh my brtotha
 
 ## Build dependencies
 
