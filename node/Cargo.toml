@@ -7,14 +7,7 @@ authors.workspace = true
 bbbrutalll
 [package.metadata.docs.rs]
 targets = ["x86_64-unknown-linux-gnu"]
-
-[lints]
-workspace = true
-
-[dependencies]
-clap = { features = ["derive"], workspace = true }
-frame-benchmarking-cli.default-features = true
-frame-benchmarking-cli.workspace = true
+k
 frame-metadata-hash-extension.default-features = true
 frame-metadata-hash-extension.workspace = true
 frame-system.default-features = true
