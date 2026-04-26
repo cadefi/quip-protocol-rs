@@ -5,13 +5,7 @@ pub struct Cli {
 
 	#[clap(flatten)]
 	pub run: sc_cli::RunCmd,
-}
-
-#[derive(Debug, clap::Subcommand)]
-#[allow(clippy::large_enum_variant)]
-pub enum Subcommand {
-	/// Key management cli utilities
-	#[command(subcommand)]
+}\ml
 	Key(sc_cli::KeySubcommand),
 
 	/// Build a chain specification.
