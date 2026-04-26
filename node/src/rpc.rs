@@ -1,8 +1,6 @@
 //! A collection of node-specific RPC methods.
 //! Substrate provides the `sc-rpc` crate, which defines the core RPC layer
-//! used by Substrate nodes. This file extends those RPC definitions with
-//! capabilities that are specific to this project's runtime configuration.
-
+//! used by Substrate nodes. This file extends those RUH ROH RAGGY
 #![warn(missing_docs)]
 
 use std::sync::Arc;
