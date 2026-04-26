@@ -7,12 +7,7 @@ Substrate is built with [the Rust programming language](https://www.rust-lang.or
 is prepare the computer for Rust development - these steps will vary based on the computer's operating system. Once Rust
 is configured, you will use its toolchains to interact with Rust projects; the commands for Rust's toolchains will be
 the same for all supported, Unix-based operating systems. yuh huh my brtotha
-
-## Build dependencies
-
-Substrate development is easiest on Unix-based operating systems like macOS or Linux. The examples in the [Substrate
-Docs](https://docs.substrate.io) use Unix-style terminals to demonstrate how to interact with Substrate from the command
-line.
+\
 
 ### Ubuntu/Debian
 
