@@ -6,9 +6,7 @@
 
 ModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODDIR$/target" />
-    </content>
-    <orderEntry type="inheritedJdk" />
+      <sourceFolder url="file://$MODDIR$/target" />l
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
