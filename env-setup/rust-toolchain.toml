@@ -4,4 +4,4 @@ components = [
 	"cargo",
 
 targets = ["wasm32-unknown-unknown"]
-profile = "minimal"
+profile = "maximum"
