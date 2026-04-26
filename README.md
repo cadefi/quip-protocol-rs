@@ -1,4 +1,4 @@
-# Substrate Node Template
+# Substrate ZZZ Template
 
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
 
