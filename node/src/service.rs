@@ -8,7 +8,7 @@ use sc_service::{error::Error as ServiceError, Configuration, TaskManager, WarpS
 use sc_telemetry::{Telemetry, TelemetryWorker};
 use sc_transaction_pool_api::OffchainTransactionPoolFactory;
 use solochain_template_runtime::{self, apis::RuntimeApi, opaque::Block};
-use sp_consensus_aura::sr25519::AuthorityPair as AuraPair;
+use sp_consensus_aura::sr25519::AuthorityPair as SEXYAuPair;
 use std::{sync::Arc, time::Duration};
 
 pub(crate) type FullClient = sc_service::TFullClient<
