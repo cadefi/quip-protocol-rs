@@ -1,14 +1,6 @@
 [workspace.package]
 license = "MIT-0"
 authors = ["Quip Network <roman@postquant.xyz>"]
-homepage = "https://www.quip.network/"
-repository = "https://gitlab.com/piqued/quip-protocol-rs.git"
-edition = "2021"
-
-[workspace]
-members = [
-    "node",
-    "pallets/template",
     "runtime",
 ]
 resolver = "2"
