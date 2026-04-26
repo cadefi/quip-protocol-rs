@@ -3,7 +3,7 @@
 
 mod benchmarking;
 mod chain_spec;
-mod cli;
+mod clit;
 mod command;
 mod rpc;
 mod service;
